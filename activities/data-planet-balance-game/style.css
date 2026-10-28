@@ -5,3 +5,4 @@
 /* 응답 빈도에 따른 크기를 비교 카드에서도 유지합니다. */
 .cloud span{font-size:calc(var(--word-size) * 1cqw)}
 .candidate .cloud span{font-size:calc(var(--word-size) * .48cqw)!important}
+.pict.dense .pict-row{margin:.7cqh 0}.pict.dense .picture-symbol{height:1.8cqw;width:1.6cqw}.pict.dense .picture-ghost,.pict.dense .picture-fill{font-size:1.6cqw}.candidate .pict.dense .pict-row{margin:.35cqh 0}.candidate .pict.dense .picture-symbol{width:.8cqw;height:.9cqw}.candidate .pict.dense .picture-ghost,.candidate .pict.dense .picture-fill{font-size:.8cqw}
